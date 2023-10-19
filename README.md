@@ -1,5 +1,5 @@
 # jsch_test
-不引入jsch依赖，纯源码
+不引入jsch依赖，纯源码，提供测试demo
 
 |   Total Visitors:   |   ![Visitor Count](https://profile-counter.glitch.me/Yohann0617/count.svg)   |
 | ---- | ---- |
