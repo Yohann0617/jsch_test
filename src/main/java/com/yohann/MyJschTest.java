@@ -9,7 +9,7 @@ import java.util.Scanner;
  * MyJschTest
  * </p >
  *
- * @author yuhui.fan
+ * @author Yohann
  * @since 2023/10/19 17:01
  */
 public class MyJschTest {
