@@ -17,7 +17,7 @@ import java.util.Scanner;
  * 支持堡垒机连接目标服务器，并完成文件上传和下载
  * </p >
  *
- * @author yuhui.fan
+ * @author yohann
  * @since 2023/10/17 15:29
  */
 public class BastionHostSftpClientTest {
