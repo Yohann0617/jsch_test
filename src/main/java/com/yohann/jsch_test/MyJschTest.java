@@ -1,4 +1,4 @@
-package com.yohann;
+package com.yohann.jsch_test;
 
 import com.jcraft.jsch.*;
 
