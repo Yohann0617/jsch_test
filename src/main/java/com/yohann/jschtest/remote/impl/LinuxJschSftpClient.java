@@ -1,8 +1,8 @@
-package com.yohann.jsch_test.remote.impl;
+package com.yohann.jschtest.remote.impl;
 
 import com.jcraft.jsch.*;
-import com.yohann.jsch_test.remote.DeviceConnectParams;
-import com.yohann.jsch_test.remote.IDeviceClient;
+import com.yohann.jschtest.remote.DeviceConnectParams;
+import com.yohann.jschtest.remote.IDeviceClient;
 import lombok.extern.slf4j.Slf4j;
 
 import javax.validation.constraints.NotNull;

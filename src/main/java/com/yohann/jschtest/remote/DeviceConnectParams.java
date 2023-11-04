@@ -1,4 +1,4 @@
-package com.yohann.jsch_test.remote;
+package com.yohann.jschtest.remote;
 
 /**
  * <p>

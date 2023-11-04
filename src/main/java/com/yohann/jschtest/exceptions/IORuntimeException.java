@@ -1,4 +1,4 @@
-package com.yohann.jsch_test.exceptions;
+package com.yohann.jschtest.exceptions;
 
 /**
  * <p>

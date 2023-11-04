@@ -1,9 +1,9 @@
-package com.yohann.jsch_test.remote;
+package com.yohann.jschtest.remote;
 
 
-import com.yohann.jsch_test.enums.dict.ConnectTcpEnum;
-import com.yohann.jsch_test.remote.impl.LinuxJschSftpClient;
-import com.yohann.jsch_test.remote.impl.LinuxJschSudoScpClient;
+import com.yohann.jschtest.enums.dict.ConnectTcpEnum;
+import com.yohann.jschtest.remote.impl.LinuxJschSftpClient;
+import com.yohann.jschtest.remote.impl.LinuxJschSudoScpClient;
 
 /**
  * 远程设备客户端工厂类

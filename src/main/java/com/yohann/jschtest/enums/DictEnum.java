@@ -1,4 +1,4 @@
-package com.yohann.jsch_test.enums;
+package com.yohann.jschtest.enums;
 
 /**
  * 数据字典枚举接口

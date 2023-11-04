@@ -1,4 +1,4 @@
-package com.yohann.jsch_test.utils;
+package com.yohann.jschtest.utils;
 
 /**
  * <p>

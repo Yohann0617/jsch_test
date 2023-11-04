@@ -1,7 +1,7 @@
-package com.yohann.jsch_test.enums.dict;
+package com.yohann.jschtest.enums.dict;
 
 
-import com.yohann.jsch_test.enums.DictEnum;
+import com.yohann.jschtest.enums.DictEnum;
 
 /**
  * @author yohann

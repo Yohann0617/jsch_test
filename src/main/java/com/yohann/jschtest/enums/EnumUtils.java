@@ -1,4 +1,4 @@
-package com.yohann.jsch_test.enums;
+package com.yohann.jschtest.enums;
 
 import java.util.Arrays;
 

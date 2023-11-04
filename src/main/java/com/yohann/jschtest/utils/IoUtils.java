@@ -1,6 +1,6 @@
-package com.yohann.jsch_test.utils;
+package com.yohann.jschtest.utils;
 
-import com.yohann.jsch_test.exceptions.IORuntimeException;
+import com.yohann.jschtest.exceptions.IORuntimeException;
 
 import java.io.IOException;
 import java.io.InputStream;
