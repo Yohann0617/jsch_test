@@ -1,10 +1,10 @@
-package com.yohann.jsch_test;
+package com.yohann.jschtest;
 
-import com.yohann.jsch_test.enums.EnumUtils;
-import com.yohann.jsch_test.enums.dict.ConnectTcpEnum;
-import com.yohann.jsch_test.remote.DeviceClientFactory;
-import com.yohann.jsch_test.remote.IDeviceClient;
-import com.yohann.jsch_test.utils.IoUtils;
+import com.yohann.jschtest.enums.EnumUtils;
+import com.yohann.jschtest.enums.dict.ConnectTcpEnum;
+import com.yohann.jschtest.remote.DeviceClientFactory;
+import com.yohann.jschtest.remote.IDeviceClient;
+import com.yohann.jschtest.utils.IoUtils;
 
 import java.io.*;
 import java.util.HashMap;
