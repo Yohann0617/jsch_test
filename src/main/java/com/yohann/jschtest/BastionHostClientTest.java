@@ -20,7 +20,7 @@ import java.util.Scanner;
  * @author yohann
  * @since 2023/10/17 15:29
  */
-public class BastionHostSftpClientTest {
+public class BastionHostClientTest {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("请输入7个参数：[参数1：堡垒机IP][参数2：堡垒机端口][参数3：目标IP][参数4：目标端口][参数5：username][参数6：password][参数7：协议枚举值（D030_1：SFTP；D030_2：SCP）]");

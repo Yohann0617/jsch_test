@@ -40,7 +40,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.yohann.jschtest.BastionHostSftpClientTest</mainClass>
+                            <mainClass>com.yohann.jschtest.BastionHostClientTest</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
