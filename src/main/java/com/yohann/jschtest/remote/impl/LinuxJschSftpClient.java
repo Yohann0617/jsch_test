@@ -1,16 +1,27 @@
 package com.yohann.jschtest.remote.impl;
 
-import com.jcraft.jsch.*;
-import com.yohann.jschtest.remote.DeviceConnectParams;
-import com.yohann.jschtest.remote.IDeviceClient;
-import lombok.extern.slf4j.Slf4j;
-
-import javax.validation.constraints.NotNull;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Vector;
 import java.util.function.Consumer;
+
+import javax.validation.constraints.NotNull;
+
+import com.jcraft.jsch.ChannelSftp;
+import com.jcraft.jsch.JSch;
+import com.jcraft.jsch.JSchException;
+import com.jcraft.jsch.Session;
+import com.jcraft.jsch.SftpATTRS;
+import com.jcraft.jsch.SftpException;
+import com.yohann.jschtest.remote.DeviceConnectParams;
+import com.yohann.jschtest.remote.IDeviceClient;
+
+import lombok.extern.slf4j.Slf4j;
 
 /**
  * <p>
@@ -358,7 +369,6 @@ public class LinuxJschSftpClient implements IDeviceClient {
 //        FileUtil.writeFromStream(inputStream, "C:\\Users\\Administrator\\Desktop\\test.txt");
 //        inputStream.close();
         
-        System.out.println("test");
         client.close();
     }
 }
