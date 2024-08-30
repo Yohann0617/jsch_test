@@ -357,7 +357,8 @@ public class LinuxJschSftpClient implements IDeviceClient {
 //        InputStream inputStream = client.getInputStream("/home/liujian/test.txt");
 //        FileUtil.writeFromStream(inputStream, "C:\\Users\\Administrator\\Desktop\\test.txt");
 //        inputStream.close();
-
+        
+        System.out.println("test");
         client.close();
     }
 }
